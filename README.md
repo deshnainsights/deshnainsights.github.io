@@ -22,7 +22,7 @@ My expertise includes Power BI, SQL, Python, and Business Intelligence, with a f
 
 🤖 Built Machine Learning forecasting models
 
-🌍 MSc Big Data & Business Analytics (Germany)
+🌍 MSc Big Data & Business Analytics in Germany 
 
 # Featured Projects
 
@@ -61,10 +61,6 @@ Interactive dashboard analyzing sales, profitability, customer segments, and reg
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
-
-# Resume
-
-📄 [Download Resume](Resume.pdf)
 
 # Contact
 
