@@ -36,11 +36,11 @@ Interactive dashboard analyzing sales, profitability, customer segments, and reg
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Excel](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logo=Excel&logoColor=white)
 
-![AWS](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-336791?style=for-the-badge)
 
-![Agile](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Agile](https://img.shields.io/badge/Agile-F2C811?style=for-the-badge&logo=Agile&logoColor=black)
 
 # Resume
 
