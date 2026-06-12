@@ -20,11 +20,9 @@ M.Sc. Big Data & Business Analytics student at FOM Hochschule with 2+ years of e
 
 Analyzed ESG and stock market data from 426 S&P 500 companies using Regression Analysis, K-Means Clustering, and PCA to evaluate the relationship between sustainability and financial performance.
 
-🔗 [View Project](https://github.com/deshnainsights/esg-financial-performance-analysis)
-
 ## Power BI Superstore Dashboard
 
-<img src="images/powerbi-dashboard.png" width="800">
+<img src="images/esg-analysis.png" width="800">
 
 Interactive dashboard analyzing sales, profitability, customer segments, and regional performance.
 
