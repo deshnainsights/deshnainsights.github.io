@@ -8,10 +8,6 @@
 Data Analyst | Power BI | Python | SQL
 </h3>
 
-# Deshna Bajaj
-
-<img src="images/profile.jpg" width="180">
-
 ## Data Analyst | Power BI | Python | SQL
 
 M.Sc. Big Data & Business Analytics student at FOM Hochschule with 2+ years of experience in Financial Services Analytics.
