@@ -1,6 +1,6 @@
-<h1 align="center">Deshna Bajaj</h1>
+<h1 align="right">Deshna Bajaj</h1>
 
-<p align="center">
+<p align="right">
 <img src="profile.jpg" width="180">
 </p>
 
@@ -38,8 +38,6 @@ Analyzed ESG and stock market data from 426 S&P 500 companies using Regression A
 Interactive dashboard analyzing sales, profitability, customer segments, and regional performance.
 
 <br>
-
-🔗 <a href="https://github.com/deshnainsights/esg-analysis.png">View Project</a>
 
 </td>
 
