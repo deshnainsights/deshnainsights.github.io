@@ -1,6 +1,6 @@
-<h1 align="right">Deshna Bajaj</h1>
+<h1 align="center">Deshna Bajaj</h1>
 
-<p align="right">
+<p align="center">
 <img src="profile.jpg" width="180">
 </p>
 
@@ -50,8 +50,6 @@ Interactive dashboard analyzing sales, profitability, customer segments, and reg
 </tr>
 </table>
 
-## Skills
-
 ## Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
@@ -72,4 +70,3 @@ Interactive dashboard analyzing sales, profitability, customer segments, and reg
 
 📧 [deshna.germany@gmail.com](mailto:deshna.germany@gmail.com)
 [LinkedIn](YOUR_LINKEDIN_URL) • [GitHub](https://github.com/deshnainsights) • [Resume](Resume.pdf)
-💻 GitHub: https://github.com/deshnainsights
