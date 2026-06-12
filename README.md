@@ -20,7 +20,7 @@ M.Sc. Big Data & Business Analytics student at FOM Hochschule with 2+ years of e
 
 Analyzed ESG and stock market data from 426 S&P 500 companies using Regression Analysis, K-Means Clustering, and PCA to evaluate the relationship between sustainability and financial performance.
 
-https://github.com/deshnainsights/ESG-FINANCIAL-PERFORMANCE-ANALYSIS
+🔗 [View Project](https://github.com/deshnainsights/esg-financial-performance-analysis)
 
 ## Power BI Superstore Dashboard
 
@@ -30,14 +30,17 @@ Interactive dashboard analyzing sales, profitability, customer segments, and reg
 
 # Technical Skills
 
-* Python
-* SQL
-* Power BI
-* Excel
-* AWS
-* Agile
-* ETL
-* Git
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![AWS](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+![Agile](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 # Resume
 
