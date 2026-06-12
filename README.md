@@ -1,7 +1,7 @@
 <h1 align="center">Deshna Bajaj</h1>
 
 <p align="center">
-<img src="images/profile.jpg" width="180">
+<img src="profile.jpg" width="180">
 </p>
 
 <h3 align="center">
