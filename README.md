@@ -14,15 +14,15 @@ My expertise includes Power BI, SQL, Python, and Business Intelligence, with a f
 
 # Career Highlights
 
-📊 Reduced manual reporting by 30%
+1.Reduced manual reporting by 30%
 
-⚡ Improved process efficiency by 20%
+2.Improved process efficiency by 20%
 
-📈 Analyzed 426 S&P 500 companies
+3.Analyzed 426 S&P 500 companies
 
-🤖 Built Machine Learning forecasting models
+4.Built Machine Learning forecasting models
 
-🌍 MSc Big Data & Business Analytics in Germany 
+5.MSc Big Data & Business Analytics in Germany 
 
 # Featured Projects
 
